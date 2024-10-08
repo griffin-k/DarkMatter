@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969084296444",
+    "project_id": "darkmatter-78480",
+    "storage_bucket": "darkmatter-78480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969084296444:android:06431777c81642fed70b79",
+        "android_client_info": {
+          "package_name": "com.my.darkmatter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOKsazXnJpAfK_TudYT5K_QVoBh0jYfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
